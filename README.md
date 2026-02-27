@@ -257,16 +257,6 @@ All GDI resources (ImageLists, HICONs, DIBs) are properly tracked and freed:
 
 ---
 
-## 📁 Files
-
-| File             | Description                                   |
-| ---------------- | --------------------------------------------- |
-| `IconButton.ahk` | The main class — include this in your scripts |
-| `Examples.ahk`   | Runnable demo showcasing every feature        |
-| `README.md`      | This documentation                            |
-
----
-
 ## 👤 Author
 
 **Mesut Akcan**
@@ -275,5 +265,6 @@ All GDI resources (ImageLists, HICONs, DIBs) are properly tracked and freed:
 - Blog: [akcansoft.blogspot.com](https://akcansoft.blogspot.com)
 - Blog: [mesutakcan.blogspot.com](https://mesutakcan.blogspot.com)
 - YouTube: [mesutakcan](https://www.youtube.com/mesutakcan)
+
 
 
