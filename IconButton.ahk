@@ -5,11 +5,11 @@ AHK v2 button class with icon support
 Version: 1.0.0
 25/02/2026
 
-https://github.com/akcansoft/IconButton
+https://github.com/mesutakcan/IconButton
 
 -------------------------------------------
 Mesut Akcan
-github: https://github.com/akcansoft
+github: https://github.com/mesutakcan
 blog: https://mesutakcan.blogspot.com
 youtube: https://www.youtube.com/mesutakcan
 --------------------------------------------
