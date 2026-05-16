@@ -2,8 +2,7 @@
 Mesut Akcan
 25/02/2026
 
-github: https://github.com/akcansoft
-blog: https://akcansoft.blogspot.com
+github: https://github.com/mesutakcan
 blog: https://mesutakcan.blogspot.com
 youtube: https://www.youtube.com/mesutakcan
 */
